@@ -13,3 +13,4 @@
 9、保存会话记录<br>
 10、自配置注册送次数、邀请送次数、支付参数等等<br>
 
+<img src="/chaoyue007/chaoyue-chatgpt-midjoutney/blob/main/img/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20230418125524.png?raw=true" />
