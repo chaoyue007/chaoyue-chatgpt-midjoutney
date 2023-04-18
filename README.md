@@ -1,5 +1,5 @@
 # chaoyue-chatgpt-midjoutney
-测试域名 kuai22.com<br>
+测试域名 <a href="http://kuai22.com">kuai22.com</a><br>
 直接输入为文字，/img +英文描述 生成mj图片<br>
 0、集成chatgpt和midjourney<br>
 1、精仿官网<br>
